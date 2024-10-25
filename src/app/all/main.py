@@ -13,6 +13,8 @@ Uploaded to GitHub in the link: https://github.com/ItayRimmler?tab=repositories\
 # Libraries and Imports
 from src.lib.all.State import State
 from src.app.pdf import pdf
+from src.lib.audio.Sound import Sound
 
 Event = State()
 file_path, tempo = pdf.process()
+sound = Sound()

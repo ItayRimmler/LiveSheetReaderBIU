@@ -2,6 +2,7 @@
 
 Script name: "src/lib/all/State.py"\n
 Goal of the script: Contains the State class definition.\n
+Goal of the class: Our program is essentially one big state machine, this is a convenient way to follow the state and previous states.\n
 Part of project: "LiveSheetReaderBIU"\n
 Description of project: Reads automatically musical sheet, and turns over pages according to the match between it and the input audio.\n
 Made by: Mr. Yuval Almog and Mr. Itay Rimmler\n
